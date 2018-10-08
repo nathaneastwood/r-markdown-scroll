@@ -1,2 +1,5 @@
 # r-markdown-scroll
-This is a simple piece of CSS to add a scroll bar to long R outputs in Rmarkdown documents
+
+When generating documents using [**rmarkdown**](https://github.com/rstudio/rmarkdown), often the output from code chunks takes up a lot of room in the document. This repository provides a simple piece of CSS to add a scroll bar to long R code chunk outputs in HTML documents. 
+
+![example](example.png)
